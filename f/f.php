@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> ชัชวาล วุฑฒะกุล(เตอร์)</title>
+</head>
+
+<body>
+
+</form>
+<?php
+    $a=1; 
+    Do  {
+        echo "$a : ชัชวาล วุฑฒะกุล(เตอร์) <br>" ;
+        echo"<img src='s.jpg' width ='200'><hr>";
+        $a++;
+    }while($a<=100)
+    
+  
+
+?>
+</body>
+</html>
